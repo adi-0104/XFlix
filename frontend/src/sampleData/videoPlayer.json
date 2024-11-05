@@ -1,0 +1,16 @@
+{
+    "DBCooper" :{
+        "votes": {
+            "upVotes": 0,
+            "downVotes": 0
+        },
+        "previewImage": "https://i.ytimg.com/vi/CbUjuwhQPKs/mqdefault.jpg",
+        "viewCount": 0,
+        "videoLink": "youtube.com/embed/CbUjuwhQPKs",
+        "title": "The Search For D. B. Cooper",
+        "genre": "Movies",
+        "contentRating": "18+",
+        "releaseDate": "27 Apr 2020",
+        "_id": "60331f421f1d093ab5424490"
+    }
+}
