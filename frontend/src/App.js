@@ -4,9 +4,9 @@ import LandingPage from "./components/LandingPage";
 import VideoPage from "./components/VideoPage";
 import React from "react";
 import { Route, Routes } from "react-router-dom";
-const ipAddress = "15.206.14.240:8082";
+const BACKEND_URL = "https://xflix-backend.fly.dev/v1/videos"; 
 export const config = {
-  endpoint: `https://xflix-backend-pijf.onrender.com/v1/videos`,
+  endpoint: BACKEND_URL,
 };
 
 function App() {
