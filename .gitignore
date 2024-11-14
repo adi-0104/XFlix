@@ -128,3 +128,5 @@ backend/node_modules/
 
 assessment/test-results.xml
 assessment/pnpm-lock.yaml
+# Local Netlify folder
+.netlify
